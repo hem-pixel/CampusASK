@@ -1,0 +1,6 @@
+{
+  "name": "CampusAsk",
+  "description": "AI-powered college helpdesk that answers student questions about examinations, admissions, departments, events, and academic processes with source citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
